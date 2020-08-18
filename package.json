@@ -1,0 +1,19 @@
+{
+  "name": "js-echo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofyloafy/js-echo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofyloafy/js-echo/issues"
+  },
+  "homepage": "https://github.com/sofyloafy/js-echo#readme"
+}
