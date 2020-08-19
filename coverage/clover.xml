@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1597776577233" clover="3.2.0">
-  <project timestamp="1597776577233" name="All files">
-    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+<coverage generated="1597823801258" clover="3.2.0">
+  <project timestamp="1597823801259" name="All files">
+    <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1" elements="8" coveredelements="5" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
     <file name="echo.js" path="/Users/sophiebrown/Projects/js-echo/src/echo.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
